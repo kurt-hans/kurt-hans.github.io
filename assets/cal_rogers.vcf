@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Cal Rogers
+N:Rogers;Cal;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:carogers@crcgroup.com
+TEL;TYPE=CELL:417-379-0005
+TEL;TYPE=WORK:317-569-5446
+item1.ORG:CRC Group
+item1.X-ABLabel:
+item2.TITLE:Senior Team Leader
+item2.X-ABLabel:
+CATEGORIES:myContacts
+END:VCARD

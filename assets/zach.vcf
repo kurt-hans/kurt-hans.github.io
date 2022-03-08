@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Zach Wheeler
+N:Wheeler;Zach;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:zwheeler@crcgroup.com
+TEL;TYPE=WORK:317-581-3227
+item1.ORG:CRC Group
+item1.X-ABLabel:
+item2.TITLE:Associate Team Lead - Midwest Personal Lines
+item2.X-ABLabel:
+CATEGORIES:myContacts
+END:VCARD
